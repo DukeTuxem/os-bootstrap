@@ -1,0 +1,22 @@
+# display
+xorg
+
+# suckless tool suite dependencies
+libX11-devel libXft-devel libXinerama-devel
+
+# fonts
+nerd-fonts-otf noto-fonts-cjk
+
+# big apps
+firefox chromium keepassxc
+
+# office
+libreoffice
+
+# multimedia
+feh mpv mupdf
+
+# dark theme
+kvantum
+
+# vim: syn=sh

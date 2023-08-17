@@ -1,0 +1,14 @@
+# system utils
+# TODO: reconsider base-devel in this profile
+htop curl wget
+
+# shell
+zsh zsh-syntax-highlighting tmux
+
+# editor
+vim ctags
+
+# CLI power
+tree fzf fd bat neofetch
+
+# vim: syn=sh
